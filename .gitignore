@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+# Dataset: check the licence of the Kaggle "Ethereum Fraud Detection" dataset
+
+transaction_dataset.csv
+
+# 
+*_scores.csv
